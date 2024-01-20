@@ -1,6 +1,6 @@
 variable "key_pair_name" {
     type = string
-    description = "keypair to utilize"
+    description = "my-key-pairs"
     default = "eks-demo"
 }
 
